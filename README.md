@@ -1,2 +1,2 @@
 # data-science
-repo to upload google colab hw to get the pdf version
+repo to upload google colab homework for all the output to be seen
